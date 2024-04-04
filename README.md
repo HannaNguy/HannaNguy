@@ -7,6 +7,21 @@
 <br>
       <p align="center"> I am an aspiring Data Engineer based in Charlotte, NC. I have a Biomedical Science and Engineering background from my prior academic contributions. Currently, I am focused on completing my B.A. in Computing & Data Analytics with a concentration in Business.</p>
         <br>
+
+ <h2>More About Me</h2>
+    <table>
+        <tr>
+            <td style="vertical-align: top;">
+                <p>👩🏻‍💻Currently working on Data Engineering projects</p>
+                <p>🌟Hobbies include painting, hiking, and keeping up-to-date with the latest technology!</p>
+                <p>🏆Committed to lifelong learning and personal growth</p>
+            </td>
+            <td>
+                <img src="IMG_5981.jpg" width="150">
+            </td>
+        </tr>
+    </table>
+
     
  <div align="left"> 
 <h2>💻 Tech Stack </h2>
