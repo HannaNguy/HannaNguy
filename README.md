@@ -2,7 +2,7 @@
     <img src="kirby.gif" width="850" height="350"/>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AFF7B5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+space!;Computing+%26+Data+Analytics+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AFF7B5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+space!;Computing+%26+Data+Analytics+Student" alt="Typing SVG" /></a>
 </div>
 <br>
       <p align="center"> I am an aspiring Data Engineer based in Charlotte, NC. I have a Biomedical Science and Engineering background from my prior academic contributions. Currently, I am focused on completing my B.A. in Computing & Data Analytics with a concentration in Business.</p>
