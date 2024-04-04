@@ -8,7 +8,7 @@
       <p align="center"> I am an aspiring Data Engineer in Charlotte, NC. I have a Biomedical Science and Engineering background from my prior academic contributions. Currently, I am focused on completing my B.A. in Computing & Data Analytics with a concentration in Business.</p>
         <br>
 
- <h2>More About Me</h2>
+ <h2 align="center">More About Me</h2>
     <table>
         <tr>
             <td style="vertical-align: top;">
