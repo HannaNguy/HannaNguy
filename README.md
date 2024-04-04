@@ -17,7 +17,7 @@
                 <p>🏆Committed to lifelong learning and personal growth</p>
             </td>
             <td>
-                <img src="IMG_5981.jpg" width="150">
+                <img src="IMG_5981.JPG" width="200">
             </td>
         </tr>
     </table>
