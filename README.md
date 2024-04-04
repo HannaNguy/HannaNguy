@@ -13,7 +13,7 @@
         <tr>
             <td style="vertical-align: top;">
                 <p>👩🏻‍💻Currently working on Data Engineering projects</p>
-                <p>🌟Hobbies include painting, hiking, and keeping up-to-date with the latest technology!</p>
+                <p>🌟Hobbies include painting, building PCs, and keeping up-to-date with the latest technology!</p>
                 <p>🏆Committed to lifelong learning and personal growth</p>
             </td>
             <td>
