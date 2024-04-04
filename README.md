@@ -9,7 +9,19 @@
 <div align="center">
         <h2>About Me</h2>
       <p align="center"> I am an aspiring Data Engineer based in Charlotte, NC. I have a Biomedical Science and Engineering background from my prior academic contributions. Currently, I am focused on completing my B.A. in Computing & Data Analytics with a concentration in Business.</p>
-        <br><br>
+        <br>
+
+<h2 align="center"> 💻 Tech Stack </h2>
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
 
 <h2 align="center">🌱 Github Stats </h2>
 <table align="center">
