@@ -42,17 +42,4 @@
  </div>
 <br>
 
- <div align="left"> 
-<h2> 🌱 Github Stats </h2>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center" style="text-align: center;">
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannanguy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-      </div>
-      <br />
-      <img title="git.io/streak-stats" alt="Hanna Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hannanguy&theme=dark&hide_border=false" /> 
-    </td>
-  </tr>
-</table>
-</div>
+
